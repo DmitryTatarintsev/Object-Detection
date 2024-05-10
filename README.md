@@ -1,5 +1,5 @@
 <div>
-    <img src="https://i.stack.imgur.com/wbkms.jpg" alt="альтернативный текст" title="заголовок изображения" width="650" style="float: left; margin-right: 10px">
+    <img src="https://i.stack.imgur.com/wbkms.jpg" alt="альтернативный текст" title="заголовок изображения" width="100%" style="float: left; margin-right: 10px">
 </div>
 
 # Детекция средств индивидуальной защиты и нарушений
