@@ -1,5 +1,5 @@
 <div>
-    <img src="https://i.stack.imgur.com/wbkms.jpg" alt="альтернативный текст" title="заголовок изображения" width="100%" style="float: left; margin-right: 10px">
+    <img src="https://github.com/DmitryTatarintsev/internship/blob/main/siz_detection/wbkms.jpg" alt="альтернативный текст" title="заголовок изображения" width="100%" style="float: left; margin-right: 10px">
 </div>
 
 # Детекция средств индивидуальной защиты и нарушений
@@ -45,7 +45,6 @@
 - *Обучение.*
 
 - - [`main_Yolo9_SIZ_.ipynb`](https://github.com/DmitryTatarintsev/internship/blob/main/siz_detection/main_Yolo9_SIZ_.ipynb): обучени YOLOv9-C, без каскада, без черных прямоугольников на человека на наличие нарушений и правильного ношения сизов.
-- - [`best.pt`](https://github.com/DmitryTatarintsev/internship/blob/main/siz_detection/siz_detection/best.pt): веса модели.
 
 - *Веб-сервис.*
 
